@@ -1,2 +1,2 @@
-# ParOImpar.py
+# ParoImpar.py
 Script simple par o impar en PYTHON
